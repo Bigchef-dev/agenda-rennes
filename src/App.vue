@@ -112,7 +112,7 @@ onMounted(async () => {
       <SubscriptionGrid :agendas="AGENDAS" />
       <footer class="text-center mt-16 pb-6 border-t border-stone-200 dark:border-stone-700 pt-8">
         <p class="text-xs font-bold text-stone-400 dark:text-stone-500 uppercase tracking-widest">
-          Utilise Nextcloud | GT Outils numériques Rennes 2026 | Mathéo, Lily, Amadou
+          Utilise Nextcloud
         </p>
       </footer>
     </div>

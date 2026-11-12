@@ -102,9 +102,9 @@ function downloadICS(): void {
   const ics = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//FaireMieuxRennes//Agenda//FR',
+    'PRODID:-//LFILUTTE35//Agenda//FR',
     'BEGIN:VEVENT',
-    `UID:${id || 'uid-' + Date.now()}@fairemieuxrennes`,
+    `UID:${id || 'uid-' + Date.now()}@lfiluttes35`,
     `DTSTAMP:${toICSDate(new Date())}`,
     `DTSTART:${s}`,
     `DTEND:${e}`,

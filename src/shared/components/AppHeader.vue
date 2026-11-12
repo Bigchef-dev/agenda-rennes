@@ -6,7 +6,7 @@ const emit = defineEmits<{ (e: 'toggle-dark'): void }>()
 <template>
   <header class="flex items-center justify-between mb-3 sm:mb-6">
     <h1 class="text-xl sm:text-3xl font-black text-[#4A235A] dark:text-[#e7d9ec] uppercase tracking-tighter leading-none">
-      Faire Mieux <span class="text-[#F97316]">Rennes</span>
+      Agenda des luttes <span class="text-[#F97316]">35</span>
     </h1>
     <button
       class="w-9 h-9 flex items-center justify-center rounded-full border border-stone-200 dark:border-stone-700 bg-white dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-700 transition-colors"
