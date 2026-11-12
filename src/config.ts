@@ -12,6 +12,6 @@ export const CITY_LON = -1.6777926
 export const AGENDAS: AgendaConfig[] = [
   { name: '🌟 Événements marquants', id: 'SePsN5nHprEKwPxg', color: '#D50000' },
   { name: '📖 Formations',    id: 'bwSbQ4mRQPzcR3es', color: '#3949AB' },
-  { name: '📣 Assemblée', id: 'CRXwn5t7yCF6N4CL', color: '#C51162' },
-  { name: '📷 Expositions',    id: 'j48w2LiW2kY5D8dK', color: '#43A047' },
+  { name: '📣 Assemblée', id: 'X8GkWKikaPPyjBLZ', color: '#C51162' },
+  { name: '📷 Expositions',    id: 'm7XaGj9HzENDmtJo', color: '#43A047' },
 ]
